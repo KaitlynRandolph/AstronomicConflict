@@ -15,3 +15,5 @@ Resources I've used (also linked inside code itself):<br>
   a. "La Calahorra" (c) Rolemusic, found at: http://freemusicarchive.org/music/Rolemusic/~/calahorra<br>
   b. "lazerburster" (c) NoiseCollector, found here: https://freesound.org/people/NoiseCollector/sounds/62793/<Br>
   c. "explosion_04" (c) LittleRobotSoundFactory, found here: https://freesound.org/people/LittleRobotSoundFactory/sounds/270310/<br>
+
+**I removed the sounds/music files from my file to avoid any copyright issues. You may replace these files using the links above to run the game file.
