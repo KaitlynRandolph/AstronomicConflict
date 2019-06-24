@@ -1,4 +1,4 @@
-# SpaceInvadersGame
+# Astronomic Conflict
 This is a Space Invaders-like game that I made by following Spunky Kangaroo on Youtube's tutorial. I am working to add my own additions to further flesh out the game.
 
 <b>My own additions:<br></b>
@@ -15,5 +15,3 @@ Resources I've used (also linked inside code itself):<br>
   a. "La Calahorra" (c) Rolemusic, found at: http://freemusicarchive.org/music/Rolemusic/~/calahorra<br>
   b. "lazerburster" (c) NoiseCollector, found here: https://freesound.org/people/NoiseCollector/sounds/62793/<Br>
   c. "explosion_04" (c) LittleRobotSoundFactory, found here: https://freesound.org/people/LittleRobotSoundFactory/sounds/270310/<br>
-
-**I removed the sounds/music files from my file to avoid any copyright issues. You may replace these files using the links above to run the game file.
